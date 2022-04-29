@@ -1,0 +1,21 @@
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$light-text: whitesmoke;
+
+$black: #1E1B25;
+$dark: #292D3E;
+$primary: #2749DE;
+$accent: #595fbb;
+$success: #78e86f;
+$danger: #C43A58;
+
+$body-bg: $black;
+$input-bg: $black;
+$input-color: $light-text;
+
+$input-border-color: $black;
+$input-focus-border-color: $accent;

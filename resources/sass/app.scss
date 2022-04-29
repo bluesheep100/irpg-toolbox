@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.bg-accent, .btn-accent {
+    background-color: $accent !important;
+    color: $light-text !important;
+}
+
+.border-accent {
+    border-color: $accent !important;
+}
